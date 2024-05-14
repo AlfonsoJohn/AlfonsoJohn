@@ -44,10 +44,9 @@ I'm a versatile engineer with expertise in software development, cloud engineeri
 
 ### 📊 Stats
 
-
+<!--
 ![Alfonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfonsojohn&show_icons=true&theme=theme=github_dark) 
-
-
+-->
 #
 
 <details>
