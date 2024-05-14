@@ -5,7 +5,7 @@
 I'm a versatile engineer with expertise in software development, cloud engineering, cybersecurity, and DevOps. My projects span from planning and designing robust cloud infrastructures and secure systems to solving real-world problems with code. I have a passion for building efficient, scalable solutions, leveraging technologies like Azure, AWS, Terraform, and Kubernetes. I'm particularly passionate about projects involving AI, hacking, and cryptocurrency, where I explore innovative and cutting-edge solutions. Always eager to push boundaries, I thrive on tackling complex challenges and continuously advancing my skills.
 
 
-<!--   <p align="left">
+  <p align="left">
       <a href="https:">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="">
@@ -15,8 +15,7 @@ I'm a versatile engineer with expertise in software development, cloud engineeri
       <a href="https://github.com/AlfonsoJohn?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AlfonsoJohn?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
--->
----
+
 
 ### 🧰 Languages and Tools
 
