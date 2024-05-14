@@ -1,6 +1,6 @@
 # 🤖 🦾 Alfonso John 🌐 🌌
 
-**`Digital Craftsman  (Engineer/Hacker/Creator)`**
+**`Digital Craftsman (Engineer/Hacker/Creator)`**
 
 I'm a versatile engineer with expertise in software development, cloud engineering, cybersecurity, and DevOps. My projects span from planning and designing robust cloud infrastructures and secure systems to solving real-world problems with code. I have a passion for building efficient, scalable solutions, leveraging technologies like Azure, AWS, Terraform, and Ansible. I'm particularly passionate about projects involving AI, hacking, and cryptocurrency, where I explore innovative and cutting-edge solutions. Always eager to push boundaries, I thrive on tackling complex challenges and continuously advancing my skills.
 
