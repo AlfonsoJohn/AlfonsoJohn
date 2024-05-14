@@ -1,8 +1,8 @@
 # 🏄‍♂️ Alfonso John
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman  (Engineer/Hacker/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel 
+I'm a versatile engineer with expertise in software development, cloud engineering, cybersecurity, and DevOps. My projects span from planning and designing robust cloud infrastructures and secure systems to solving real-world problems with code. I have a passion for building efficient, scalable solutions, leveraging technologies like Azure, AWS, Terraform, and Ansible. My content focuses on sharing knowledge and innovative practices in the tech world, reflecting my commitment to continuous learning and professional growth.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
