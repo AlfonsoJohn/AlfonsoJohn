@@ -57,7 +57,6 @@ Certified in numerous industry-recognized credentials, including CompTIA CASP+, 
 
 #
 
-<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -67,4 +66,3 @@ Certified in numerous industry-recognized credentials, including CompTIA CASP+, 
   <br/><br/><br/>
 </div>
 
-<hr/>
