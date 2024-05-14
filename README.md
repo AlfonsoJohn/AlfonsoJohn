@@ -56,7 +56,6 @@ I embarked on my journey as a software engineer driven by an insatiable curiosit
 Certified in numerous industry-recognized credentials, including CompTIA CASP+, PenTest+, CySA+, AWS DevOps Professional, and more, I continuously strive to expand my knowledge and skills. My technical expertise spans a broad spectrum, from Terraform and Ansible for infrastructure-as-code to proficiency in C++, Python, and C# for software development. I thrive in dynamic environments that challenge me to leverage my diverse skill set to develop impactful technological solutions. My commitment to continuous learning and professional growth drives me to stay at the forefront of the industry, ready to tackle complex problems and contribute to innovative projects. Whether it's optimizing cloud environments, enhancing cybersecurity measures, or developing robust software solutions, I am dedicated to delivering excellence in every endeavor. 
 </details>
 
-#
 
 <br />
 
