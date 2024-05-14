@@ -1,4 +1,4 @@
-# 🤖🦾 Alfonso John 🌐🌌
+# 🤖 🦾 Alfonso John 🌐 🌌
 
 **`Digital Craftsman  (Engineer/Hacker/Creator)`**
 
