@@ -2,7 +2,7 @@
 
 **`Digital Craftsman  (Engineer/Hacker/Creator)`**
 
-I'm a versatile engineer with expertise in software development, cloud engineering, cybersecurity, and DevOps. My projects span from planning and designing robust cloud infrastructures and secure systems to solving real-world problems with code. I have a passion for building efficient, scalable solutions, leveraging technologies like Azure, AWS, Terraform, and Ansible. I'm particularly passionate about projects involving AI, hacking, and cryptocurrency, where I explore innovative and cutting-edge solutions. Let's connect and collaborate on these exciting technological frontiers.
+I'm a versatile engineer with expertise in software development, cloud engineering, cybersecurity, and DevOps. My projects span from planning and designing robust cloud infrastructures and secure systems to solving real-world problems with code. I have a passion for building efficient, scalable solutions, leveraging technologies like Azure, AWS, Terraform, and Ansible. I'm particularly passionate about projects involving AI, hacking, and cryptocurrency, where I explore innovative and cutting-edge solutions. Always eager to push boundaries, I thrive on tackling complex challenges and continuously advancing my skills.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -46,7 +46,7 @@ I'm a versatile engineer with expertise in software development, cloud engineeri
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
-<!--
+
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
 I embarked on my journey as a software engineer driven by an insatiable curiosity and a passion for technology. My academic background in Cybersecurity and Information Assurance, combined with a Bachelor's in Software Development, laid a strong foundation for my diverse career. Throughout my professional journey, I've embraced a wide range of roles, from software development to cloud engineering, DevOps, and cybersecurity. I resolved complex networking issues and optimized cloud infrastructure, leveraging Azure and AWS to enhance system reliability and security. My efforts significantly reduced security breaches and improved customer retention. My experiences allowed me to pioneer innovative solutions, such as a Python-powered web scraping tool and advanced data analysis techniques, boosting research efficiency and data management.
