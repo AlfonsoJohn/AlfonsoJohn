@@ -59,6 +59,7 @@ Certified in numerous industry-recognized credentials, including CompTIA CASP+, 
 #
 
 <br />
+
 <hr/>
 
 <div align="center">
