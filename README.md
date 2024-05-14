@@ -51,10 +51,9 @@ I'm a versatile engineer with expertise in software development, cloud engineeri
 
 <details>
  <summary><h3>👨‍💻 Alfonso's Tech Journey</h3></summary>
-I embarked on my journey as a software engineer driven by an insatiable curiosity and a passion for technology. My academic background in Cybersecurity and Information Assurance, combined with a Bachelor's in Software Development, laid a strong foundation for my diverse career. Throughout my professional journey, I've embraced a wide range of roles, from software development to cloud engineering, DevOps, and cybersecurity. I resolved complex networking issues and optimized cloud infrastructure, leveraging Azure and AWS to enhance system reliability and security. My efforts significantly reduced security breaches and improved customer retention. My experiences allowed me to pioneer innovative solutions, such as a Python-powered web scraping tool and advanced data analysis techniques, boosting research efficiency and data management.
-
-
-Certified in numerous industry-recognized credentials, including CompTIA CASP+, PenTest+, CySA+, AWS DevOps Professional, and more, I continuously strive to expand my knowledge and skills. My technical expertise spans a broad spectrum, from Terraform and Ansible for infrastructure-as-code to proficiency in C++, Python, and C# for software development. I thrive in dynamic environments that challenge me to leverage my diverse skill set to develop impactful technological solutions. My commitment to continuous learning and professional growth drives me to stay at the forefront of the industry, ready to tackle complex problems and contribute to innovative projects. Whether it's optimizing cloud environments, enhancing cybersecurity measures, or developing robust software solutions, I am dedicated to delivering excellence in every endeavor. 
+<p>I embarked on my journey as a software engineer driven by an insatiable curiosity and a passion for technology. My academic background in Cybersecurity and Information Assurance, combined with a Bachelor's in Software Development, laid a strong foundation for my diverse career. Throughout my professional journey, I've embraced a wide range of roles, from software development to cloud engineering, DevOps, and cybersecurity. I resolved complex networking issues and optimized cloud infrastructure, leveraging Azure and AWS to enhance system reliability and security. My efforts significantly reduced security breaches and improved customer retention. My experiences allowed me to pioneer innovative solutions, such as a Python-powered web scraping tool and advanced data analysis techniques, boosting research efficiency and data management.
+<p/>
+<p>Certified in numerous industry-recognized credentials, including CompTIA CASP+, PenTest+, CySA+, AWS DevOps Professional, and more, I continuously strive to expand my knowledge and skills. My technical expertise spans a broad spectrum, from Terraform and Ansible for infrastructure-as-code to proficiency in C++, Python, and C# for software development. I thrive in dynamic environments that challenge me to leverage my diverse skill set to develop impactful technological solutions. My commitment to continuous learning and professional growth drives me to stay at the forefront of the industry, ready to tackle complex problems and contribute to innovative projects. Whether it's optimizing cloud environments, enhancing cybersecurity measures, or developing robust software solutions, I am dedicated to delivering excellence in every endeavor. <p/>
 </details>
 
 <br />
@@ -62,7 +61,9 @@ Certified in numerous industry-recognized credentials, including CompTIA CASP+, 
 <hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
+      <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlfonsoJohn/AlfonsoJohn/output/github-contribution-grid-snake.svg" />
+      <br/><br/><br/>
 </div>
 
 <hr/>
