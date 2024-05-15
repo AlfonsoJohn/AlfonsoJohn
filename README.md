@@ -43,9 +43,10 @@ I'm a versatile engineer with expertise in software development, cloud engineeri
 
 ### 📊 Stats
 
-
-![Alfonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfonsojohn&show_icons=true&theme=theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=AlfonsoJohn&theme=default)
+<div style="display: flex; justify-content: space-between;">
+  <img alt="Alfonso's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alfonsojohn&show_icons=true&theme=dark" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=AlfonsoJohn&theme=dark" />
+</div>
 
 #
 
