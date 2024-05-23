@@ -7,8 +7,8 @@ I'm a versatile engineer with expertise in software development, cloud engineeri
  <p align="left">
     <a href="https://github.com/AlfonsoJohn?tab=repositories&sort=stargazers" style="outline: none;">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/-AlfonsoJohn@tech.com.-blue?style=for-the-badge&logo=mention&logoColor=white" style="outline: none;"/>
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AlfonsoJohn?color=55960c&style=for-the-badge&labelColor=488207&logo=star" style="outline: none;"/>
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/New York-USA-red?style=for-the-badge&logo=location&logoColor=white" style="outline: none;"/>
+        <img alt="site" title="Portfolio" src="https://custom-icon-badges.demolab.com/github/stars/AlfonsoJohn?color=55960c&style=for-the-badge&labelColor=488207&logo=star" style="outline: none;"/>
+        <img alt="location" title="Location" src="https://custom-icon-badges.demolab.com/badge/New York-USA-red?style=for-the-badge&logo=location&logoColor=white" style="outline: none;"/>
     </a>
 </p>
 
