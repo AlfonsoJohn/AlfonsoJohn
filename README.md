@@ -8,7 +8,8 @@ I'm a versatile engineer with expertise in software development, cloud engineeri
     <a href="https://alfonsojohn.com">
         <img alt="site" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-AlfonsoJohn.com-blue?style=for-the-badge&logo=mention&logoColor=white"/></a>
     <a href="https://github.com/AlfonsoJohn?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AlfonsoJohn?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/</a>
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AlfonsoJohn?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
+         /></a>
     <a href="https://github.com/AlfonsoJohn?tab=repositories&sort=stargazers">
         <img alt="location" title="Location" src="https://custom-icon-badges.demolab.com/badge/New York-USA-red?style=for-the-badge&logo=location&logoColor=white"/></a>
 </p>
