@@ -5,9 +5,9 @@
 I'm a versatile engineer with expertise in software development, cloud engineering, cybersecurity, and DevOps. My projects span from planning and designing robust cloud infrastructures and secure systems to solving real-world problems with code. I have a passion for building efficient, scalable solutions, leveraging technologies like Azure, AWS, Terraform, and Kubernetes. I'm particularly passionate about projects involving AI, hacking, and cryptocurrency, where I explore innovative and cutting-edge solutions. Always eager to push boundaries, I thrive on tackling complex challenges and continuously advancing my skills.
 
  <p align="left">
-    <a href="https://alfonsojohn.com">
+    <a href="https://resume.alfonsojohn.com">
         <img alt="site" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-AlfonsoJohn.com-blue?style=for-the-badge&logo=mention&logoColor=white"/></a>
-    <a href="https://github.com/AlfonsoJohn?tab=repositories&sort=stargazers">
+    <a href="https://resume.alfonsojohn.com/">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AlfonsoJohn?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
          /></a>
     <a href="https://github.com/AlfonsoJohn?tab=repositories&sort=stargazers">
