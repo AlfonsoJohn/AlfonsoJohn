@@ -13,6 +13,9 @@ I'm a versatile engineer with expertise in software development, cloud engineeri
     <a href="https://github.com/AlfonsoJohn?tab=repositories&sort=stargazers">
         <img alt="location" title="Location" src="https://custom-icon-badges.demolab.com/badge/New York-USA-red?style=for-the-badge&logo=location&logoColor=white"/></a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=AlfonsoJohn&style=plastic)
+</a>
    
 ---
 
